@@ -1,2 +1,2 @@
 # primer-proyecto-python
-Mi primer proyecto en 
+Mi primer proyecto en python
